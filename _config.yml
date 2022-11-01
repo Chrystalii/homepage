@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Xiangmeng Wang"
+description              : &description "Xiangmeng Wang's Homepage"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   bio              : "PhD Student,
 DSMI Lab,
 FEIT,
-University of Technology Sydney (UTS), Australia "
+University of Technology Sydney, Australia "
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
@@ -99,13 +99,13 @@ University of Technology Sydney (UTS), Australia "
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Chrystalii"
+  github           : "Chrystalii"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xiangmeng-wang-002942214/"
+  linkedin         : "xiangmeng-wang-002942214/"
   orcid            : 
   pinterest        :
   soundcloud       :
