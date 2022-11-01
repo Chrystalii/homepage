@@ -62,10 +62,9 @@ Professional Service
   <ul>
   <li>2023: WSDM, NeurIPS</li>
   <li>2022: EMNLP, IJCAI, KDD, WSDM, SDM</li>
-  <li>2021: ICCV, CVPR, IJCAI, ICLR, TNNLS, WWWJ</li>\
+  <li>2021: ICCV, CVPR, IJCAI, ICLR, TNNLS, WWWJ</li>
   </ul>
 </li>
-
 
 Honors And Awards
 ------
@@ -75,8 +74,9 @@ Honors And Awards
 <li>China National Scholarship for Encouragement, Jan 2014</li>
 <li>Provincial Outstanding Graduate, May 2017</li>
 
+
 For more info
-======
+------
 [Data Science and Machine Intelligence (DSMI) Lab](http://dsmi.tech/)
 
 [University of Technology Sydney](https://www.uts.edu.au/)
