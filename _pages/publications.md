@@ -15,17 +15,30 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-News
+Conference Proceedings
 ------
-<li>[2022.11] Submitted two papers to WWW'2023. </li>
-<li>[2022.10] Xiangmeng is ranked the No.1 in the School of Computer Science’s research showcase competition (presentation category).</li>
-<li>[2022.09] Xiangmeng has been elected as the candidate for Apple Scholar Fellowship program.</li>
-<li>[2022.07] Submitted one paper to ICDE'2023 second submission round.</li>
-<li>[2022.07] Xiangmeng has certified as online participant in the conference ACM SIGIR 2022.</li>
-<li>[2022.04] Xiangmeng has granted the UTS VC's Conference Fund 2022 - Online Round 1.</li>
-<li>[2022.05] Xiangmeng is elected as the candidate for Google PhD Fellowship program.</li>
-<li>[2022.04] One paper is accepted by ACM Transactions on Knowledge Discovery from Data.</li>
-<li>[2022.03] One paper is accepted by SIGIR'2022.</li>
-<li>[2022.03] One paper is accepted by IEEE Transactions on Knowledge and Data Engineering.</li>
-<li>[2022.03] Xiangmeng successfully passed her Candidature Assessment 1.</li>
-<li>[2022.01] One paper is accepted by WWW'2022.</li>
+(\* below indicates equal contribution)
+
+<strong>MGPolicy: Meta Graph Enhanced Off-policy Learning for Recommendations</strong>
+<strong>X. Wang</strong>, Q. Li, D. Yu, Z. Wang, H. Chen, and G. Xu.  
+In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+
+<strong>Off-policy Learning over Heterogeneous Information for Recommendation</strong>
+<strong>X. Wang</strong>, Q. Li, D. Yu, and G. Xu.
+In Proceedings of the ACM Web Conference 2022 (WWW)
+
+<strong>Causal Disentanglement for Semantics-Aware Intent Learning in Recommendation</strong>
+<strong>X. Wang</strong>, Q. Li, D. Yu, P. Cui, Z. Wang and G. Xu. 
+In IEEE Transactions on Knowledge and Data Engineering (TKDE)
+
+<strong>Be Causal: De-biasing Social Network Confounding in Recommendation</strong>
+Q. Li\*, <strong>X. Wang</strong>, Z. Wang and G. Xu.
+In ACM Transactions on Knowledge Discovery from Data (TKDD)
+
+<strong>Joint relational dependency learning for sequential recommendation</strong>
+<strong>X. Wang</strong>, Q. Li, W. Zhang, G. Xu, S. Liu, and W. Zhu.
+In Proceedings of the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
+
+<strong>ThermoEPred-EL: Robust bandgap predictions of chalcogenides with diamond-like structure via feature cross-based stacked ensemble learning</strong>
+<strong>X. Wang</strong>, Y. Xu, J. Yang, J. Ni, W. Zhu and W. Zhang.
+In Computational Materials Science
