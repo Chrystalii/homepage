@@ -34,28 +34,36 @@ Tutorials
 
 Teaching and Research Service
 ------
-<li>Teaching Assistant, University of Technology Sydney:
+<li><strong>Teaching Assistant</strong>, University of Technology Sydney:
+  <ul>
   <li>AI/Analytics Capstone course</li>
+  </ul>
 </li>
-<li>Research Assistant, Shanghai University:
+<li><strong>Research Assistant</strong>, Shanghai University:
+  <ul>
   <li>The National Key R&D Program of China (No. 2017YFB0701501)</li>
   <li>National Natural Science Foundation of China (No. 61572434)</li> 
+  </ul>
 </li>
 
 Industry Experience
 ------
-<li>Ping An Ltd, Data Modeling Internship, Shanghai, China, Jan 2019 — Aug 2019</li>
-<li>RTSHIELD, Data Analyst (Full-time), Shanghai, China, May 2020 — Aug 2020</li>
+<li><strong>Ping An Ltd</strong>, Data Modeling Internship, Shanghai, China, Jan 2019 — Aug 2019</li>
+<li><strong>RTSHIELD</strong>, Data Analyst (Full-time), Shanghai, China, May 2020 — Aug 2020</li>
 
 Professional Service
 ------
-<li>PC member:
+<li><strong>PC member</strong>:
+  <ul>
   <li>PRICAI 2022</li>
+  </ul>
 </li>
-<li>Reviewer:
+<li><strong>Reviewer</strong>:
+  <ul>
   <li>2023: WSDM, NeurIPS</li>
   <li>2022: EMNLP, IJCAI, KDD, WSDM, SDM</li>
-  <li>2021: ICCV, CVPR, IJCAI, ICLR, TNNLS, WWWJ</li>
+  <li>2021: ICCV, CVPR, IJCAI, ICLR, TNNLS, WWWJ</li>\
+  </ul>
 </li>
 
 
