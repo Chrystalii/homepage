@@ -68,7 +68,7 @@ Professional Service
 
 Honors And Awards
 ------
-<li>Ranked Top 1 in the School of Computer Science research showcase, Sep 2022</li>
+<li>🏆 Ranked Top 1 in the School of Computer Science research showcase, Sep 2022</li>
 <li>China National Scholarship, Jan 2019</li>
 <li>China National Scholarship, Jan 2016</li>
 <li>China National Scholarship for Encouragement, Jan 2014</li>
