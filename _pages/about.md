@@ -30,7 +30,8 @@ News
 
 Tutorials
 ------
-<li> 2022, Tutorial, Recent Advances in Causality-based Recommendation, PAKDD 2022. <a href="https://drive.google.com/file/d/1hN1_7S-eSiEUDJe-HHKOGKTGFLYbcU8S/view?usp=sharing">Slides</a>, <a href="https://www.youtube.com/watch?v=s4Z12CBYwO8">Video</a></li>
+<li> 2022, Tutorial, Recent Advances in Causality-based Recommendation, PAKDD 2022. </li>
+<li><a href="https://drive.google.com/file/d/1hN1_7S-eSiEUDJe-HHKOGKTGFLYbcU8S/view?usp=sharing">Slides</a>｜<a href="https://www.youtube.com/watch?v=s4Z12CBYwO8">Video</a></li>
 
 Teaching and Research Service
 ------
