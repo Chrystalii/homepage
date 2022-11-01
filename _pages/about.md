@@ -32,5 +32,7 @@ News
 For more info
 ------
 [Data Science and Machine Intelligence (DSMI) Lab](http://dsmi.tech/)
+
 [University of Technology Sydney](https://www.uts.edu.au/)
-[Email]: xiangmeng.wang@student.uts.edu.au
+
+[Xiangmeng's Email](xiangmeng.wang@student.uts.edu.au)
