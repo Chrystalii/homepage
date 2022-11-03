@@ -20,11 +20,15 @@ Conference Proceedings
 (\* below indicates equal contribution)
 
 <strong>MGPolicy: Meta Graph Enhanced Off-policy Learning for Recommendations</strong>
+
 <strong>X. Wang</strong>, Q. Li, D. Yu, Z. Wang, H. Chen, and G. Xu.  
+
 In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
 
 <strong>Off-policy Learning over Heterogeneous Information for Recommendation</strong>
+
 <strong>X. Wang</strong>, Q. Li, D. Yu, and G. Xu.
+
 In Proceedings of the ACM Web Conference 2022 (WWW)
 
 <strong>Causal Disentanglement for Semantics-Aware Intent Learning in Recommendation</strong>
