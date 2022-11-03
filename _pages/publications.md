@@ -76,14 +76,4 @@ Refereed Journals
 <br>In Sci Sin Tech
 <br>[[paper]](https://www.researchgate.net/publication/330732686_New_materials_band_gap_prediction_based_on_the_high-throughput_calculation_and_the_machine_learning)
 
-Preprints
-------
-<strong>Counterfactual Explanation for Fairness in Recommendation</strong>
-<br><strong>X. Wang</strong>, Q. Li, D. Yu, Q. Li and G. Xu.
 
-<strong>Reinforced Path Reasoning for Counterfactual Explainable Recommendation</strong>
-<br><strong>X. Wang</strong>, Q. Li, D. Yu, Q. Li and G. Xu.
-<br>[[paper]](https://arxiv.org/abs/2207.06674)
-
-<strong>Constrained Off-policy Learning over Heterogeneous Information for Fairness-aware Recommendation</strong>
-<br><strong>X. Wang</strong>, Q. Li, D. Yu and G. Xu.
