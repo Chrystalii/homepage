@@ -76,10 +76,11 @@ Honors And Awards
 <li>China National Scholarship for Encouragement, Jan 2014</li>
 <li>Provincial Outstanding Graduate, May 2017</li>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=edJENQE-YAplJdSplPtr5U3kvY7G0GzS18sPk7RADCg&co=97aebf&cmo=d13333&cmn=ffe40d'></script>
-
 For more info
 ------
 [Data Science and Machine Intelligence (DSMI) Lab](http://dsmi.tech/)
 
 [University of Technology Sydney](https://www.uts.edu.au/)
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=edJENQE-YAplJdSplPtr5U3kvY7G0GzS18sPk7RADCg&co=97aebf&cmo=d13333&cmn=ffe40d'></script>
