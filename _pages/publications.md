@@ -20,10 +20,12 @@ Conference Proceedings
 (\* below indicates equal contribution)
 
 <strong>MGPolicy: Meta Graph Enhanced Off-policy Learning for Recommendations</strong>
-
+<br>
 <strong>X. Wang</strong>, Q. Li, D. Yu, Z. Wang, H. Chen, and G. Xu.  
-
+<br>
 In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+<br>
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3532021)
 
 <strong>Off-policy Learning over Heterogeneous Information for Recommendation</strong>
 
