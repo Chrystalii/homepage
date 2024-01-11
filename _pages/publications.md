@@ -51,6 +51,16 @@ Refereed Journals
 <br>In IEEE Transactions on Knowledge and Data Engineering (TKDE)
 <br>[[paper]](https://ieeexplore.ieee.org/abstract/document/9736612)
 
+<strong>Reinforced Path Reasoning for Counterfactual Explainable Recommendation</strong>
+<br><strong>X. Wang</strong>, Q. Li, D. Yu, Q. Li and G. Xu.
+<br>In IEEE Transactions on Knowledge and Data Engineering (TKDE)
+<br>[[paper]](to be released)
+
+<strong>Constrained Off-policy Learning over Heterogeneous Information for Fairness-aware Recommendation</strong>
+<br><strong>X. Wang</strong>, Q. Li, D. Yu, Q. Li and G. Xu.
+<br>In ACM Transactions on Recommender Systems (TORS)
+<br>[[paper]](https://dl-acm-org.ezproxy.lib.uts.edu.au/doi/pdf/10.1145/3629172)
+
 <strong>Be Causal: De-biasing Social Network Confounding in Recommendation</strong>
 <br>Q. Li\*, <strong>X. Wang</strong>, Z. Wang and G. Xu.
 <br>In ACM Transactions on Knowledge Discovery from Data (TKDD)
