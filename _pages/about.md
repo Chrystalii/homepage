@@ -9,12 +9,14 @@ redirect_from:
 ---
 Welcome!
 
-I’m Xiangmeng Wang, a Ph.D. student at the School of Computer Science, Faculty of Engineering and Information Technology, University of Technology Sydney (UTS). I enrolled in the UTS in March 2021. I am fortunate enough to have [Prof. Guandong Xu](https://profiles.uts.edu.au/Guandong.Xu) as my supervisor and [Dr. Qian Li](https://sites.google.com/view/qian/) as my co-supervisor. Before that, I received my MSc degree in Computer Application Technology from Shanghai University.
+I’m Xiangmeng Wang, a Ph.D. student at the School of Computer Science, Faculty of Engineering and Information Technology, University of Technology Sydney (UTS). I enrolled in the UTS in March 2021. I am fortunate enough to have [Prof. Guandong Xu](https://profiles.uts.edu.au/Guandong.Xu) as my supervisor and [Dr. Qian Li](https://sites.google.com/view/qian/) as my co-supervisor. Before that, I received my MSc degree in Computer Application Technology from Shanghai University. Currently, I've been a visiting student at The Hong Kong Polytechnic University (PolyU) by the student attachment program, advised by [Prof. Qing Li](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/). 
 
 My research interests lie primarily in explainable artificial intelligence, data analysis, and causal machine learning. My papers have been published in top-tier conferences and journals in the field of machine learning.
 
 News
 ------
+<li>[2023.11]Xiangmeng is awarded the 2023 FEIT HDR Excellence Awards, UTS. </li>
+<li>[2023.09]Xiangmeng begins her visiting journey at The Hong Kong Polytechnic University.</li>
 <li>[2022.12]Xiangmeng is awarded the Research Excellence Scholarship from the Faculty of Engineering and IT, UTS.</li>
 <li>[2022.12]Xiangmeng is awarded outstanding publication awards from DSMI lab, UTS.</li>
 <li>[2022.10] Xiangmeng is ranked the No.1 in the School of Computer Science’s research showcase competition (presentation category).</li>
@@ -70,6 +72,7 @@ Professional Service
 
 Honors And Awards
 ------
+<li>HDR Excellence Awards, UTS, Nov 2023</li>
 <li>Research Excellence Scholarship, UTS, Dec 2022</li>
 <li>🏆 Ranked Top 1 in the School of Computer Science research showcase, Sep 2022</li>
 <li>China National Scholarship, Jan 2019</li>
